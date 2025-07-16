@@ -1,5 +1,5 @@
 {
-  "version": "0.5.9.7",
-  "url": "https://github.com/FireFlyStudio-Dev/Spotilay/releases/download/0.5.9.7/Spotilay.0.5.9.7.zip",
-  "notes": "Added new Theme - Car Stereo/ optimisations. tweaks to ui. added context menu to asterisk button. added save/loadthemestate()"
+  "version": "0.5.9.8",
+  "url": "https://github.com/FireFlyStudio-Dev/Spotilay/releases/download/0.5.9.8/Spotilay.0.5.9.8.zip",
+  "notes": " Added check to api. if user is using free account. it will disabled any api buttons to prevent Dialogbox = /Premium_Required\ "
 }
