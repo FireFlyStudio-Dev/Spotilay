@@ -50,7 +50,8 @@ also note. there is a toggle box in the Task Tray right click context menu>setti
 
 For support, feature requests, or feedback, visit [FireFly Studio UK](https://github.com/FireFlyStudio-Dev/Spotilay).
 always needing opinions and suggestions
-
+or 
+Join our Development [Discord](https://discord.gg/4rp5vRjbgQ)
 ---
 ** Spotilay& FireFly Studio UK do not store any information of any kind anywhere but the End users local files. For this it sticks to GDPR. 
 *Spotilay is not affiliated with Spotify AB. Spotify is a registered trademark of Spotify AB.*
