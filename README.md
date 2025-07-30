@@ -2,6 +2,8 @@
 
 Spotilay is a modern desktop overlay for Spotify, designed to enhance your listening experience with stylish, interactive visual themes and real-time playback controls. Built for Windows (.NET 8, WPF), Spotilay brings your music to life with customizable overlays, VU meters, and direct Spotify integration.
 
+Spotilay app Uses Net 8.0 dependancy. which will pop up to download on initial launch. the app will not work without. 
+
 ## Features
 
 - **Spotify Integration:**  
