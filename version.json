@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0.1",
-  "url": "https://github.com/FireFlyStudio-Dev/Spotilay/releases/download/0.6.0.1/Spotilay.0.6.0.1.zip",
-  "notes": "Simplified code to help with dials and such. plus windows startup to remember theme used!"
+  "version": "0.6.0.2",
+  "url": "https://github.com/FireFlyStudio-Dev/Spotilay/releases/download/0.6.0.2/Spotilay.0.6.0.2.zip",
+  "notes": "added a new overlay MiniDisk, more app code refinements!"
 }
